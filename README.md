@@ -1,4 +1,4 @@
-### **Inductive Node Classification**
+### **Erdosnet - Inductive Node Classification**
 
 | Day | Task                                                                            |
 | --- | ------------------------------------------------------------------------------- |
