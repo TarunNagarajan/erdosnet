@@ -1,4 +1,4 @@
-### **Inductive Node Classification (GraphSAGE)**
+### **Inductive Node Classification**
 
 | Day | Task                                                                            |
 | --- | ------------------------------------------------------------------------------- |
